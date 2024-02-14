@@ -1,4 +1,4 @@
-ctransformer == 0.2.5
+ctransformers == 0.2.27
 sentence-transfomers == 2.2.2
 pincone-client 
 langchain==0.0.225
